@@ -1,0 +1,125 @@
+{
+  "data": [
+    {
+      "directors": [ "饺子" ],
+      "rate": "8.5",
+      "cover_x": 5594,
+      "star": "45",
+      "title": "哪吒之魔童降世",
+      "url": "https:\/\/movie.douban.com\/subject\/26794435\/",
+      "casts": [ "吕艳婷", "囧森瑟夫", "瀚墨", "陈浩", "绿绮" ],
+      "cover": "./../../../static/img1/3.jpg",
+      "id": "26794435",
+      "cover_y": 8268
+    },
+    {
+      "directors": [ "陈凯歌" ],
+      "rate": "9.6",
+      "cover_x": 600,
+      "star": "50",
+      "title": "霸王别姬",
+      "url": "https:\/\/movie.douban.com\/subject\/1291546\/",
+      "casts": [ "张国荣", "张丰毅", "巩俐", "葛优", "英达" ],
+      "cover": "./../../../static/img1/4.jpg",
+      "id": "1291546",
+      "cover_y": 889
+    },
+    {
+      "directors": [ "曾国祥" ],
+      "rate": "8.3",
+      "cover_x": 5906,
+      "star": "40",
+      "title": "少年的你",
+      "url": "https:\/\/movie.douban.com\/subject\/30166972\/",
+      "casts": [ "周冬雨", "易烊千玺", "尹昉", "周也", "吴越" ],
+      "cover": "./../../../static/img1/5.jpg",
+      "id": "30166972",
+      "cover_y": 8268
+    },
+    {
+      "directors": [ "拜伦·霍华德", "瑞奇·摩尔", "杰拉德·布什" ],
+      "rate": "9.2",
+      "cover_x": 1418,
+      "star": "45",
+      "title": "疯狂动物城",
+      "url": "https:\/\/movie.douban.com\/subject\/25662329\/",
+      "casts": [ "金妮弗·古德温", "杰森·贝特曼", "伊德里斯·艾尔巴", "珍妮·斯蕾特", "内特·托伦斯" ],
+      "cover": "./../../../static/img1/6.jpg",
+      "id": "25662329",
+      "cover_y": 2005
+    },
+    {
+      "directors": [ "文牧野" ],
+      "rate": "9.0",
+      "cover_x": 2810,
+      "star": "45",
+      "title": "我不是药神",
+      "url": "https:\/\/movie.douban.com\/subject\/26752088\/",
+      "casts": [ "徐峥", "王传君", "周一围", "谭卓", "章宇" ],
+      "cover": "./../../../static/img1/7.jpg",
+      "id": "26752088",
+      "cover_y": 3937
+    },
+    {
+      "directors": [ "詹姆斯·卡梅隆" ],
+      "rate": "9.4",
+      "cover_x": 2015,
+      "star": "45",
+      "title": "泰坦尼克号",
+      "url": "https:\/\/movie.douban.com\/subject\/1292722\/",
+      "casts": [ "莱昂纳多·迪卡普里奥", "凯特·温丝莱特", "比利·赞恩", "凯西·贝茨", "弗兰西丝·费舍" ],
+      "cover": "./../../../static/img1/8.jpg",
+      "id": "1292722",
+      "cover_y": 3000
+    },
+    {
+      "directors": [ "吕克·贝松" ],
+      "rate": "9.4",
+      "cover_x": 658,
+      "star": "45",
+      "title": "这个杀手不太冷",
+      "url": "https:\/\/movie.douban.com\/subject\/1295644\/",
+      "casts": [ "让·雷诺", "娜塔莉·波特曼", "加里·奥德曼", "丹尼·爱罗", "彼得·阿佩尔" ],
+      "cover": "./../../../static/img1/9.jpg",
+      "id": "1295644",
+      "cover_y": 980
+    },
+    {
+      "directors": [ "涅提·蒂瓦里" ],
+      "rate": "9.0",
+      "cover_x": 4500,
+      "star": "45",
+      "title": "摔跤吧！爸爸",
+      "url": "https:\/\/movie.douban.com\/subject\/26387939\/",
+      "casts": [ "阿米尔·汗", "法缇玛·萨那·纱卡", "桑亚·玛荷塔", "阿帕尔夏克提·库拉那", "沙克希·坦沃" ],
+      "cover": "./../../../static/img1/10.jpg",
+      "id": "26387939",
+      "cover_y": 6300
+    },
+    {
+      "directors": [ "弗兰克·德拉邦特" ],
+      "rate": "9.7",
+      "cover_x": 2000,
+      "star": "50",
+      "title": "肖申克的救赎",
+      "url": "https:\/\/movie.douban.com\/subject\/1292052\/",
+      "casts": [ "蒂姆·罗宾斯", "摩根·弗里曼", "鲍勃·冈顿", "威廉姆·赛德勒", "克兰西·布朗" ],
+      "cover": "./../../../static/img1/1.jpg",
+      "id": "1292052",
+      "cover_y": 2963,
+      "content": ""
+    },
+    {
+      "directors": [ "宫崎骏" ],
+      "rate": "9.4",
+      "cover_x": 1080,
+      "star": "45",
+      "title": "千与千寻",
+      "url": "https:\/\/movie.douban.com\/subject\/1291561\/",
+      "casts": [ "柊瑠美", "入野自由", "夏木真理", "菅原文太", "中村彰男" ],
+      "cover": "./../../../static/img1/2.jpg",
+      "id": "1291561",
+      "cover_y": 1560
+    }
+  ]
+}

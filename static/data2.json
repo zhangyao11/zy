@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "address": "./../../static/img2/1.jpg",
+      "id": 1
+    },
+    {
+      "address": "./../../static/img2/2.jpg",
+      "id": 2
+    },
+    {
+      "address": "./../../static/img2/3.jpg",
+      "id": 3
+    },
+    {
+      "address": "./../../static/img2/4.jpg",
+      "id": 4
+    }
+  ]
+}
